@@ -13,7 +13,7 @@ In project technologies are used:
 ## Build and Run:
 First, you need to clone the project from GitHub repository:
 ```
-git clone 
+git clone https://github.com/Serhii-Voloshyn/managing-weekly-schedule.git
 ```
 After cloning the project, you need a build project via Docker. In your project terminal, write this command for building.
 ```
